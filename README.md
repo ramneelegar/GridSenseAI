@@ -108,10 +108,10 @@ GridSense AI helps:
 
 Developed as part of the **AI for Bharat Hackathon**.
 by:
-Ramachandrappa
-Ramangouda
+Ramachandrappa,
+Rakesh Tawargeri,
+Ramangouda,
 Rahul KJ
-Rakesh Tawargeri
 
 ---
 
