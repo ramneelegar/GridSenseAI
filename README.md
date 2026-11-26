@@ -106,7 +106,7 @@ GridSense AI helps:
 
 ## 👥 Team
 
-Developed as part of the **AI for Bharat Hackathon**.
+Developed as part of the **AI for Bharat Hackathon**
 by:
 Ramachandrappa,
 Rakesh Tawargeri,
